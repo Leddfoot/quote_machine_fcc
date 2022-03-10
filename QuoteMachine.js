@@ -1,5 +1,5 @@
 import React from "react";
-import QuoteResults from "./QuoteResults";
+import QuoteResults from "./quote-machine/QuoteResults";
 import Footer from "../components/UI/Footer/Footer";
 
 import "./QuoteMachine.css";
